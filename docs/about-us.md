@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu libero ips
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu libero ipsum. Cras finibus mauris ornare laoreet scelerisque. Ut eleifend ligula augue, sed vestibulum libero blandit a. Etiam cursus lectus tortor, aliquam convallis enim mollis non. Nulla in lectus et nisi facilisis ultrices. Phasellus at mollis neque. In hac habitasse platea dictumst.
 
-See our [past presidents](/past-presidents "past presidents").
+See our [past presidents]({{ site.github.url }}/past-presidents "past presidents").
 
 ### Meetings
 
