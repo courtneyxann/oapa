@@ -87,9 +87,9 @@ email: "omahaalumnaepanhellenic@gmail.com"
 # 8. Site navigation
 navigation_header:
   Home: /
-  About Us: {{ site.github.url }}/about-us
-  Gathering of the Greeks: {{ site.github.url }}/gathering-of-the-greeks
-  Applications: {{ site.github.url }}/applications
+  About Us: /about-us
+  Gathering of the Greeks: /gathering-of-the-greeks
+  Applications: /applications
 
 navigation_footer:
  No content needed
