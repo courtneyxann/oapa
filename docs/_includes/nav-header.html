@@ -13,7 +13,7 @@
       {% endif %}
 
       <li class="item  item--nav{% if item[1] == page.url %}  item--current{% endif %}">
-        <a href="{{ site.github.url }}/OAPA/{{ url }}">{{ item[0] }}</a>
+        <a href="{{ site.github.url }}{{ url }}">{{ item[0] }}</a>
       </li>
     {% endfor %}
   </ul>
