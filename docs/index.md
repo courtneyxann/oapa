@@ -18,5 +18,5 @@ OAPA is a proud member of the National Panhellenic Conference since 1974. NPC is
 
 Each year, NPC women donate more than $5 million to worthy causes, provide 2.8 million in scholarships to women and volunteer 500,000 hours in their communities.
 
-The National Panhellenic Conference Creed
+> **The National Panhellenic Conference Creed**  
 *We, as Fraternity Women, stand for service through the development of character inspired by the close contact and deep friendship of individual fraternity and Panhellenic life. The opportunity for wide and wise human service, through mutual respect and helpfulness, is the tenet by which we strive to live.*
