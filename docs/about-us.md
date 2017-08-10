@@ -16,12 +16,12 @@ community based organization. We exist
 
 ### Officers
 
-President Coryn McDonnell, Delta Gamma
-President-Elect Nicole Busboom, Alpha Omicron Pi
-Secretary Jillian Humphries, Kappa Delta
-Treasurer Sharon Dunham, Gamma Phi Beta
-Advisor Colleen Richardson, Alpha Xi Delta
-Outreach/Media Lisa McCoy, Alpha Sigma Tau
+*President* Coryn McDonnell, Delta Gamma  
+*President-Elect* Nicole Busboom, Alpha Omicron Pi  
+*Secretary* Jillian Humphries, Kappa Delta  
+*Treasurer* Sharon Dunham, Gamma Phi Beta  
+*Advisor* Colleen Richardson, Alpha Xi Delta  
+*Outreach/Media* Lisa McCoy, Alpha Sigma Tau   
 
 Meetings are held the second Thursdays of September, November, January, March and April. For time and location, please contact your delegate or the President.
 

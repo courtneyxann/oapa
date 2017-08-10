@@ -1,5 +1,5 @@
 ---
-title: Past Winners
+title: Recruitment Information
 feature_image: "{{ site.github.url }}/assets/hero-image.jpg"
 ---
 
