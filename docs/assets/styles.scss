@@ -435,7 +435,7 @@ pre code {
   }
 }
 
-// Courtney custom styles
+/* Courtney custom styles */
 
 .typeset blockquote p {
   font-style: normal;
@@ -444,4 +444,25 @@ pre code {
 
 ul {
   margin-left: 24px;
+}
+
+.past-presidents {
+  main {
+    article {
+        div {
+          column-count: 2;
+        }
+      }
+  }
+  ul {
+  margin-left: 0;
+  margin-bottom: 0;
+    li{
+    list-style-type: none;
+    }
+  }
+  p {
+  margin-bottom: 0;
+  padding-top: 0;
+  }
 }
