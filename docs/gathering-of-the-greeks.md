@@ -7,7 +7,7 @@ OAPA’s Gathering of the Greeks is an annual celebration of the Panhellenic spi
 
 Our [scholarships and awards]({{ site.github.url }}/applications) are presented at the Gathering of the Greeks. Attendees enjoy brunch and a keynote speaker. Our silent auction and raffle benefit the scholarship fund for the following year. Collegiate members mingle with alumnae. Members of all organizations enjoy being Greeks together.
 
-See our [past winners]({{ site.github.url }}/past-winners "past winners").
+See our [past women of the year]({{ site.github.url }}/past-winners "past winners").
 
 ### Save the date
 Gathering of the Greeks will be Saturday, April 7, 2018! Keep checking your inboxes for registration details. Contact your alumnae or collegiate chapter
