@@ -467,6 +467,19 @@ ul {
   }
 }
 
-.about-oapa .officers {
+.about-oapa {
+  .officers {
   column-count: 2;
+  }
+  .members {
+    column-count: 3;
+    ul {
+    margin-left: 0;
+    margin-bottom: 0;
+    li {
+    list-style-type: none;
+    }
+  }
+  }
 }
+
