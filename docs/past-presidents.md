@@ -1,6 +1,6 @@
 ---
 title: Past Presidents
-feature_image: "{{ site.github.url }}/assets/hero-image.jpg"
+feature_image: "OAPA/assets/hero-image.jpg"
 ---
 
 <div>

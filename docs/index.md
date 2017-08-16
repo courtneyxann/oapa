@@ -1,10 +1,6 @@
 ---
 title: Welcome to the Omaha Alumnae Panhellenic Association!
-feature_text: |
-  ## OAPA
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu libero ipsum.
-feature_image: "{{ site.github.url }}assets/hero-image-text.jpg"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu libero ipsum. Cras finibus mauris ornare laoreet scelerisque. Ut eleifend ligula augue, sed vestibulum libero blandit a. "
+feature_image: "OAPA/assets/hero-image.jpg"
 ---
 
 
