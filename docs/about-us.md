@@ -46,7 +46,7 @@ Meetings are held the second Thursdays of September, November, January, March an
 <div class="members">
 <ul>
 <li>Alpha Chi Omega</li>
-<li><a href="mailto:?subject=OAPA%20Information">Mandy Craig</a></li>
+<li><a href="mailto:mandycraig@cox.net?subject=OAPA%20Information">Mandy Craig</a></li>
 </ul>
 <ul>
 <li>Alpha Delta Pi</li>
@@ -58,15 +58,15 @@ Meetings are held the second Thursdays of September, November, January, March an
 </ul>
 <ul>
 <li>Alpha Gamma Delta</li>
-<li><a href="mailto:?subject=OAPA%20Information">Nancy Harms</a></li>
+<li><a href="mailto:gjwnah@cox.net?subject=OAPA%20Information">Nancy Harms</a></li>
 </ul>
 <ul>
 <li>Alpha Omicron Pi</li>
-<li><a href="mailto:?subject=OAPA%20Information">Nicole Busboom</a></li>
+<li><a href="mailto:nicole.busboom@gmail.com?subject=OAPA%20Information">Nicole Busboom</a></li>
 </ul>
 <ul>
 <li>Alpha Phi</li>
-<li><a href="mailto:?subject=OAPA%20Information">Nicole Deprez</a></li>
+<li><a href="mailto:suppyduppy@cox.net?subject=OAPA%20Information">Nicole Deprez</a></li>
 </ul>
 <ul>
 <li>Alpha Sigma Alpha</li>
@@ -74,47 +74,47 @@ Meetings are held the second Thursdays of September, November, January, March an
 </ul>
 <ul>
 <li>Alpha Sigma Tau</li>
-<li><a href="mailto:?subject=OAPA%20Information">Lisa McCoy</a></li>
+<li><a href="mailto:lgrm@cox.net?subject=OAPA%20Information">Lisa McCoy</a></li>
 </ul>
 <ul>
 <li>Alpha Xi Delta</li>
-<li><a href="mailto:?subject=OAPA%20Information">Colleen Richardson</a></li>
+<li><a href="mailto:crichardson323@gmail.com?subject=OAPA%20Information">Colleen Richardson</a></li>
 </ul>
 <ul>
 <li>Chi Omega</li>
-<li><a href="mailto:?subject=OAPA%20Information">Dorothy Rasgorshek</a></li>
+<li><a href="mailto:momrazz@cox.net?subject=OAPA%20Information">Dorothy Rasgorshek</a></li>
 </ul>
 <ul>
 <li>Delta Delta Delta</li>
-<li><a href="mailto:?subject=OAPA%20Information">Heidi Thorson</a></li>
+<li><a href="mailto:thorson.heidi@gmail.com?subject=OAPA%20Information">Heidi Thorson</a></li>
 </ul>
 <ul>
 <li>Delta Gamma</li>
-<li><a href="mailto:?subject=OAPA%20Information">Coryn McDonnell</a></li>
+<li><a href="mailto:corynnydia@gmail.com?subject=OAPA%20Information">Coryn McDonnell</a></li>
 </ul>
 <ul>
 <li>Delta Phi Epsilon</li>
-<li><a href="mailto:?subject=OAPA%20Information">Brittney Merritt</a></li>
+<li><a href="mailto:brittney.j.merritt@gmail.com?subject=OAPA%20Information">Brittney Merritt</a></li>
 </ul>
 <ul>
 <li>Delta Zeta</li>
-<li><a href="mailto:?subject=OAPA%20Information">Lois Westfall</a></li>
+<li><a href="mailto:lwestfal8@yahoo.com?subject=OAPA%20Information">Lois Westfall</a></li>
 </ul>
 <ul>
 <li>Gamma Phi Beta</li>
-<li><a href="mailto:?subject=OAPA%20Information">Theresa Geraghty</a></li>
+<li><a href="mailto:mgeraghty@cox.net?subject=OAPA%20Information">Theresa Geraghty</a></li>
 </ul>
 <ul>
 <li>Kappa Alpha Theta</li>
-<li><a href="mailto:?subject=OAPA%20Information">Meagan Van Gelder</a></li>
+<li><a href="mailto:meaganvg@yahoo.com?subject=OAPA%20Information">Meagan Van Gelder</a></li>
 </ul>
 <ul>
 <li>Kappa Delta</li>
-<li><a href="mailto:?subject=OAPA%20Information">Jillian Humphries</a></li>
+<li><a href="mailto:jillianhumphries@cox.net?subject=OAPA%20Information">Jillian Humphries</a></li>
 </ul>
 <ul>
 <li>Kappa Kappa Gamma</li>
-<li><a href="mailto:?subject=OAPA%20Information">Jennifer Heyen</a></li>
+<li><a href="mailto:jennifer.heyen@yahoo.com?subject=OAPA%20Information">Jennifer Heyen</a></li>
 </ul>
 <ul>
 <li>Phi Mu</li>
@@ -126,7 +126,7 @@ Meetings are held the second Thursdays of September, November, January, March an
 </ul>
 <ul>
 <li>Pi Beta Phi</li>
-<li><a href="mailto:?subject=OAPA%20Information">Allison Schorr</a></li>
+<li><a href="mailto:a.schorr11@gmail.com?subject=OAPA%20Information">Allison Schorr</a></li>
 </ul>
 <ul>
 <li>Sigma Delta Tau</li>
@@ -134,19 +134,19 @@ Meetings are held the second Thursdays of September, November, January, March an
 </ul>
 <ul>
 <li>Sigma Kappa</li>
-<li><a href="mailto:?subject=OAPA%20Information">Bridget Hall</a></li>
+<li><a href="mailto:bridgetsuehall@gmail.com?subject=OAPA%20Information">Bridget Hall</a></li>
 </ul>
 <ul>
 <li>Sigma Sigma Sigma</li>
-<li><a href="mailto:?subject=OAPA%20Information">Kate Hansen</a></li>
+<li><a href="mailto:kate.hansen@outlook.com?subject=OAPA%20Information">Kate Hansen</a></li>
 </ul>
 <ul>
 <li>Theta Phi Alpha</li>
-<li><a href="mailto:?subject=OAPA%20Information">Kathleen Glow</a></li>
+<li><a href="mailto:kathleenglow@gmail.com?subject=OAPA%20Information">Kate Glow</a></li>
 </ul>
 <ul>
 <li>Zeta Tau Alpha</li>
-<li><a href="mailto:?subject=OAPA%20Information">Suzanne Dewey</a></li>
+<li><a href="mailto:suzanneldewey@msn.com?subject=OAPA%20Information">Suzanne Dewey</a></li>
 </ul>
 </div>
 
