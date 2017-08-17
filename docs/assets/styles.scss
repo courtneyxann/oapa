@@ -450,7 +450,10 @@ ul {
   main {
     article {
         div {
-          column-count: 2;
+        column-count: 1;
+        @include breakpoint(break-1) {
+         column-count: 2;
+         }
         }
       }
   }
@@ -469,10 +472,16 @@ ul {
 
 .about-oapa {
   .officers {
-  column-count: 2;
+  column-count: 1;
+   @include breakpoint(break-1) {
+   column-count: 2;
+   }
   }
   .members {
-    column-count: 3;
+    column-count: 1;
+    @include breakpoint(break-1) {
+     column-count: 3;
+     }
     ul {
     margin-left: 0;
     margin-bottom: 0;
