@@ -11,7 +11,9 @@ We invite you to apply for this [scholarship](https://docs.google.com/document/d
 
 #### 2017 scholarship winners
 
+Nigeena Rahmanzai, Chi Omega at University of Nebraska Omaha
 
+Madeline Vavricek, Kappa Delta at University of Nebraska Lincoln
 
 ### Awards
 
