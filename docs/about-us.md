@@ -19,22 +19,22 @@ community based organization. We exist
 <div class="officers">
 
 <p><strong>President</strong><br>  
-Coryn McDonnell, Delta Gamma</p>
+<a href="mailto:corynnydia@gmail.com?subject=OAPA%20Information">Coryn McDonnell</a>, Delta Gamma</p>
 
 <p><strong>President-Elect</strong><br> 
-Nicole Busboom, Alpha Omicron Pi</p>
+<a href="mailto:nicole.busboom@gmail.com?subject=OAPA%20Information">Nicole Busboom</a>, Alpha Omicron Pi</p>
 
 <p><strong>Secretary</strong><br> 
-Jillian Humphries, Kappa Delta</p>
+<a href="mailto:jillianhumphries@cox.net?subject=OAPA%20Information">Jillian Humphries</a>, Kappa Delta</p>
 
 <p><strong>Treasurer</strong><br> 
-Sharon Dunham, Gamma Phi Beta</p> 
+<a href="mailto:sdunham25@gmail.com?subject=OAPA%20Information">Sharon Dunham</a>, Gamma Phi Beta</p> 
 
 <p><strong>Advisor</strong><br> 
-Colleen Richardson, Alpha Xi Delta</p>
+<a href="mailto:crichardson323@gmail.com?subject=OAPA%20Information">Colleen Richardson</a>, Alpha Xi Delta</p>
 
 <p><strong>Outreach/Media</strong><br> 
-Lisa McCoy, Alpha Sigma Tau</p> 
+<a href="mailto:lgrm@cox.net?subject=OAPA%20Information">Lisa McCoy</a>, Alpha Sigma Tau</p> 
 
 </div>
 
