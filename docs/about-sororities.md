@@ -10,6 +10,8 @@ A sorority is a social membership organization for women that provides strong fr
 
 The [National Panhellenic Conference](http://www.npcwomen.org) (NPC) is the umbrella group for 26 national and international sororities. These organizations function autonomously, but share common goals and purposes.
 
+![University of Nebraska Omaha sorority members holding a sign that reads add another chapter to your life.]({{ site.github.url }}/assets/uno-members.png)
+
 In Nebraska, NPC sororities are represented at Creighton University, University of Nebraska Omaha, University of Nebraska Lincoln, Nebraska Wesleyan and University of Nebraska Kearney. If you’re headed out of state, contact your college for a list of which chapters are on campus.
 
 ## How can I join a sorority?
@@ -17,6 +19,8 @@ Each college campus has its own process for sorority recruitment. Check with you
 
 ## What other benefits does sorority membership offer?
 Sorority life offers opportunities in leadership, scholarship and community service, in addition to social activities. In a local college chapter, a woman will experience working together to accomplish many projects, interacting with other students, alumnae advisors and national staff, college administrators and the community. Academic achievement is emphasized, and many organizations offer scholarships. Chapters participate in community service projects giving back at the campus and national levels.
+
+![University of Nebraska Lincoln sorority members]({{ site.github.url }}/assets/unl-members.png)
 
 Lifetime membership in a sorority means that after college, alumnae membership will continue to enjoy a network of personal and professional development. Wherever life takes you, you are likely to find other sorority women and connect.
 
