@@ -12,7 +12,7 @@ We invite you to apply for this [scholarship](https://docs.google.com/document/d
 #### 2017 scholarship winners
 
 
-![image of the 2017 scholarship winners]({{ site.github.url }}/OAPA/assets/IMG_2121.jpg)
+![image of the 2017 scholarship winners]({{ site.github.url }}/OAPA/assets/scholarship-winners.jpg)
 Nigeena Rahmanzai (left), Chi Omega at University of Nebraska Omaha and Madeline Vavricek (right), Kappa Delta at University of Nebraska Lincoln
 
 ### Awards
