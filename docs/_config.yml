@@ -87,10 +87,10 @@ email: "omahaalumnaepanhellenic@gmail.com"
 # 8. Site navigation
 navigation_header:
   Home: /
-  About Us: /about-us
-  Gathering of the Greeks: /gathering-of-the-greeks
-  Applications: /applications
-  About Sororities: /about-sororities
+  About: /about-us
+  Events: /gathering-of-the-greeks
+  Apply: /applications
+  Sorority FAQ: /about-sororities
 
 navigation_footer:
  No content needed
