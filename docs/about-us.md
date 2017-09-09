@@ -33,9 +33,6 @@ community based organization. We exist
 <p><strong>Advisor</strong><br> 
 <a href="mailto:crichardson323@gmail.com?subject=OAPA%20Information">Colleen Richardson</a>, Alpha Xi Delta</p>
 
-<p><strong>Outreach/Media</strong><br> 
-<a href="mailto:lgrm@cox.net?subject=OAPA%20Information">Lisa McCoy</a>, Alpha Sigma Tau</p> 
-
 </div>
 
 Meetings are held the second Thursdays of September, November, January, March and April. For time and location, please contact your delegate or the President.
