@@ -5,6 +5,16 @@ feature_image: "/OAPA/assets/hero-image.jpg"
 
 <div>
 <ul>
+<li>Katie Sup Rezac</li>
+<li>Alpha Omicron Pi</li>
+<li>2016</li>
+</ul>
+<ul>
+<li>Cheryl Eby Miller</li>
+<li>Alpha Xi Delta</li>
+<li>2015</li>
+</ul>
+<ul>
 <li>Babs Weinberg</li>
 <li>Gamma Phi Beta</li>
 <li>2014</li>

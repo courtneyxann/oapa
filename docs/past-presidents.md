@@ -8,11 +8,16 @@ feature_image: "/OAPA/assets/hero-image.jpg"
 <ul>
 <li>Colleen Richardson</li>
 <li>Alpha Xi Delta</li>
-<li>2015-16</li>
+<li>2016-17</li>
 </ul>
 <ul>
 <li>Kate Glow</li>
 <li>Theta Phi Alpha</li>
+<li>2015-16</li>
+</ul>
+<ul>
+<li>Suzanne Dewey</li>
+<li>Zeta Tau Alpha</li>
 <li>2014-15</li>
 </ul>
 <ul>

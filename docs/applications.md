@@ -21,8 +21,13 @@ OAPA presents two awards each year, to a Collegian of the Year, and a Woman of t
 
 We invite you to explore this award and nominate a woman from your organization. We would love for you to apply for [Collegian of the Year](https://docs.google.com/document/d/1fL1nm-UqfqRukw_V1L6ZcIeHoOjTDYHxXZoLO_JLvS0/edit?usp=sharing) or [Woman of the Year](https://docs.google.com/document/d/19TyVKB_DQLnpUTzrUdlrnGxLPjNH9ET6BqU9CoGeg0A/edit?usp=sharing).
 
-#### 2017 Collegian of the Year 
+#### 2017 Collegian of the Year
+
+Rebecca Samuelson Dietle, Alpha Gamma Delta 
 
 #### 2017 Woman of the Year
+
+Sarah Kottenstette, Gamma Phi Beta, Creighton University  
+Courtney Buman, Chi Omega, University of Nebraska Omaha
 
 
