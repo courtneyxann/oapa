@@ -23,11 +23,10 @@ We invite you to explore this award and nominate a woman from your organization.
 
 #### 2017 Collegian of the Year
 
-Rebecca Samuelson Dietle, Alpha Gamma Delta 
-
-#### 2017 Woman of the Year
-
 Sarah Kottenstette, Gamma Phi Beta, Creighton University  
 Courtney Buman, Chi Omega, University of Nebraska Omaha
 
+#### 2017 Woman of the Year
+
+Rebecca Samuelson Dietle, Alpha Gamma Delta 
 
