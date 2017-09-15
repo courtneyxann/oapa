@@ -455,6 +455,7 @@ ul {
         column-count: 1;
         @include breakpoint(break-1) {
          column-count: 2;
+         break-inside: avoid;
          }
         }
       }
@@ -477,12 +478,14 @@ ul {
   column-count: 1;
    @include breakpoint(break-1) {
    column-count: 2;
+   break-inside: avoid;
    }
   }
   .members {
     column-count: 1;
     @include breakpoint(break-1) {
      column-count: 3;
+     break-inside: avoid;
      }
     ul {
     margin-left: 0;
