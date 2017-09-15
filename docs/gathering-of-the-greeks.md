@@ -1,6 +1,6 @@
 ---
 title: Gathering of the Greeks
-feature_image: "/OAPA/assets/hero-image.jpg"
+feature_image: "/assets/hero-image.jpg"
 ---
 
 OAPA’s Gathering of the Greeks is an annual celebration of the Panhellenic spirit! It is our premier social occasion of the year. Sorority members, both collegians and alumnae, from the metro Omaha area and Nebraska are invited to attend.

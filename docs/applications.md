@@ -1,6 +1,6 @@
 ---
 title: Applications
-feature_image: "/OAPA/assets/hero-image.jpg"
+feature_image: "/assets/hero-image.jpg"
 ---
 
 ### Scholarships

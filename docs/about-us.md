@@ -1,6 +1,6 @@
 ---
 title: About OAPA
-feature_image: "/OAPA/assets/hero-image.jpg"
+feature_image: "/assets/hero-image.jpg"
 ---
 
 In addition to offering scholarships and recognition awards, OAPA shares information about trends in

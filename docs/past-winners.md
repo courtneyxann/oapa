@@ -1,6 +1,6 @@
 ---
 title: Past Women of the Year
-feature_image: "/OAPA/assets/hero-image.jpg"
+feature_image: "/assets/hero-image.jpg"
 ---
 
 <div>

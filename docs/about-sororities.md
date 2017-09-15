@@ -1,6 +1,6 @@
 ---
 title: About Sororities
-feature_image: "/OAPA/assets/hero-image.jpg"
+feature_image: "/assets/hero-image.jpg"
 ---
 
 It’s only natural to have questions. OAPA is here to help.
