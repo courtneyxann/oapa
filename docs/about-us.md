@@ -67,7 +67,7 @@ Meetings are held the second Thursdays of September, November, January, March an
 </ul>
 <ul>
 <li>Alpha Sigma Alpha</li>
-<li>Not currently active</li>
+<li><a href="mailto:kate.hilden@gmail.com?subject=OAPA%20Information">Kate Hilden</a></li>
 </ul>
 <ul>
 <li>Alpha Sigma Tau</li>
