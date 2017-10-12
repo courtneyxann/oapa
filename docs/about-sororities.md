@@ -27,7 +27,7 @@ Lifetime membership in a sorority means that after college, alumnae membership w
 NPC sororities are located on more than 670 campuses with 411,242 undergraduate members in 3,288 chapters. Alumnae are represented in 3,784 associations throughout the world.
 
 ## Where can I get more information?
-Check out [The Sorority Life](http://www.thesororitylife.org)! There you’ll find all kinds of information on recruitment, member organizations and the college lifestyle.
+Check out [The Sorority Life](http://www.thesororitylife.com)! There you’ll find all kinds of information on recruitment, member organizations and the college lifestyle.
 
 **Parents**, still have questions? Visit [The Sorority Life: The Real Deal](http://www.thesororitylife.com/The-Real-Deal/index.aspx), or the [National Panhellenic Conference site](http://www.npcwomen.org). Or contact any of the [OAPA delegates]({{ site.github.url }}/about-us).
 
