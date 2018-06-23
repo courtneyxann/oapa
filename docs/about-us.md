@@ -35,7 +35,7 @@ community based organization. We exist
 
 </div>
 
-Meetings are held the second Thursdays of September, November, January, March and April. For time and location, please contact your delegate or the President.
+Meetings are held the third Thursdays of September, November, January, March and April. For time and location, please contact your delegate or the President.
 
 
 ### Member Organizations
