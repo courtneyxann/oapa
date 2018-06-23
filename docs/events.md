@@ -12,4 +12,4 @@ Our [scholarships and awards]({{ site.github.url }}/applications) are presented 
 See our [past women of the year]({{ site.github.url }}/past-winners "past winners").
 
 ### Save the date
-Gathering of the Greeks will be Saturday, April 7, 2018! 
+Gathering of the Greeks will be Saturday, March 30th, 2019 at Field Club in Omaha! 
