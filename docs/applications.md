@@ -12,7 +12,7 @@ We invite you to apply for this [scholarship](https://docs.google.com/document/d
 #### 2018 scholarship winners
 
 
-![image of the 2017 scholarship winners]({{ site.github.url }}/assets/scholarship-winners.jpg)
+# ![image of the 2017 scholarship winners]({{ site.github.url }}/assets/scholarship-winners.jpg)
 Nigeena Rahmanzai (left), Chi Omega at University of Nebraska Omaha and Madeline Vavricek (right), Kappa Delta at University of Nebraska Lincoln
 
 ### Awards
@@ -23,10 +23,10 @@ We invite you to explore this award and nominate a woman from your organization.
 
 #### 2018 Collegian of the Year
 
-Sarah Kottenstette, Gamma Phi Beta, Creighton University  
-Courtney Buman, Chi Omega, University of Nebraska Omaha
+Claire Knutson, Pi Beta Phi, Creighton University
+
 
 #### 2018 Woman of the Year
 
-Rebecca Samuelson Dietle, Alpha Gamma Delta 
+Michaela Proper, Chi Omega
 
