@@ -9,10 +9,10 @@ OAPA awards $1000 scholarships annually to outstanding women attending a Nebrask
 
 We invite you to apply for this [scholarship](https://docs.google.com/document/d/1RMkFdp1iuioF65wEmGc1DMHGds8wnQsksiEwVZBSNl8/edit?usp=sharing), and encourage you to spread the word to other sorority women!
 
-#### 2017 scholarship winners
+#### 2018 scholarship winners
 
-![image of the 2017 scholarship winners]({{ site.github.url }}/assets/scholarship-winners.jpg)
-Nigeena Rahmanzai (left), Chi Omega at University of Nebraska Omaha and Madeline Vavricek (right), Kappa Delta at University of Nebraska Lincoln
+![image of the 2018 scholarship winners]({{ site.github.url }}/assets/scholarship-winners2018.jpg)
+Kayla Young(left), Gamma Phi Beta at Creighton University and Olivia Zeman-Renner (right), Chi Omega at University of Nebraska Omaha
 
 ### Awards
 
