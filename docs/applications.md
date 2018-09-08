@@ -12,7 +12,7 @@ We invite you to apply for this [scholarship](https://docs.google.com/document/d
 #### 2018 scholarship winners
 
 ![image of the 2018 scholarship winners]({{ site.github.url }}/assets/scholarship-winners2018.jpg)
-Kayla Young(left), Gamma Phi Beta at Creighton University and Olivia Zeman-Renner (right), Chi Omega at University of Nebraska Omaha
+Kayla Young (left), Gamma Phi Beta at Creighton University and Olivia Zeman-Renner (right), Chi Omega at University of Nebraska Omaha
 
 ### Awards
 
