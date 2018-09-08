@@ -5,6 +5,16 @@ feature_image: "/assets/hero-image.jpg"
 
 <div>
 <ul>
+<li>Michaela Proper</li>
+<li>Chi Omega</li>
+<li>2018</li>
+</ul>	
+<ul>
+<li>Rebecca Samuelson Dietle</li>
+<li>Alpha Gamma Delta</li>
+<li>2017</li>
+</ul>
+<ul>
 <li>Katie Sup Rezac</li>
 <li>Alpha Omicron Pi</li>
 <li>2016</li>
