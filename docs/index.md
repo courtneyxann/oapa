@@ -6,7 +6,7 @@ feature_image: "/assets/hero-image.jpg"
 
 The Omaha Alumnae Panhellenic Association serves the Omaha area community and its Panhellenic women with [scholarships]({{ site.github.url }}/applications), [service awards]({{ site.github.url }}/applications), and a celebratory annual [Gathering of the Greeks]({{ site.github.url }}/gathering-of-the-greeks).
 
-Each year, OAPA awards more than $2,000 in scholarships and gifts to collegiate women. We recognize outstanding women with Collegian of the Year and Alumnae of the Year awards for leadership and participation in campus and community activities. OAPA also provides resources for local chapters and potential new members.
+Each year, OAPA awards more than $2,000 in scholarships and gifts to collegiate women. We recognize outstanding women with Distinguished Senior of the Year and Alumnae of the Year awards for leadership and participation in campus and community activities. OAPA also provides resources for local chapters and potential new members.
 
 ![group of OAPA members]({{ site.github.url }}/assets/oapa-members.jpg)
 
