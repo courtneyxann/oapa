@@ -1,9 +1,9 @@
 ---
-title: Dues and Scholarship Donation
+title: Online Payments
 feature_image: "/assets/hero-image.jpg"
 ---
 
-We are now offering the ability for OAPA member organizations to pay for their dues via PayPal. You may submit payment below.
+We offer the ability to pay for your Gathering of the Greeks ticket as well as for OAPA member organizations to pay for their dues via PayPal. You may submit payment below. 
 
 *Pay with PayPal*
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
