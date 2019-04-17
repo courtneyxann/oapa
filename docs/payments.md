@@ -5,7 +5,7 @@ feature_image: "/assets/hero-image.jpg"
 
 We offer the ability to pay for your Gathering of the Greeks ticket as well as for OAPA member organizations to pay for their dues via PayPal. You may submit payment below. 
 
-*Pay with PayPal*
+**Pay with PayPal**
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="ADSXLSJD6HUVE">
