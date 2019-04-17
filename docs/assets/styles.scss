@@ -288,8 +288,7 @@ input[type="email"],
 input[type="search"],
 input[type="submit"],
 input[type="color"],
-textarea,
-select {
+textarea {
   padding: .6rem 1.2rem;
   margin-bottom: .6rem;
   transition: color .1s, background-color .1s, border .1s;
@@ -342,8 +341,7 @@ a,
 button,
 .button,
 input,
-textarea,
-select {
+textarea {
   &:focus,
   &:hover:focus {
     outline: solid .12rem $focusColour;
@@ -359,17 +357,12 @@ input[type="text"],
 input[type="email"],
 input[type="search"],
 input[type="color"],
-textarea,
-select {
+textarea {
   width: 100%;
   border: 1px solid $captionColour;
   &:hover {
     border-color: $bodyColour;
   }
-}
-
-select {
-  background: $codeBackgroundColour;
 }
 
 textarea {
