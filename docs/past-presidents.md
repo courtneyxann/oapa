@@ -6,6 +6,11 @@ feature_image: "/assets/hero-image.jpg"
 <div>
 
 <ul>
+<li>Coryn McDonnell</li>
+<li>Delta Gamma</li>
+<li>2017-18</li>
+</ul>
+<ul>
 <li>Colleen Richardson</li>
 <li>Alpha Xi Delta</li>
 <li>2016-17</li>
