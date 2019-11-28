@@ -18,11 +18,11 @@ community based organization. We exist
 
 <div class="officers">
 
-<p><strong>President</strong><br>  
-<a href="mailto:corynnydia@gmail.com?subject=OAPA%20Information">Coryn McDonnell</a>, Delta Gamma</p>
+<p><strong>President</strong><br> 
+<a href="mailto:nicole.busboom@gmail.com?subject=OAPA%20Information">Nicole Busboom</a>, Alpha Omicron Pi</p> 
 
 <p><strong>President-Elect</strong><br> 
-<a href="mailto:nicole.busboom@gmail.com?subject=OAPA%20Information">Nicole Busboom</a>, Alpha Omicron Pi</p>
+
 
 <p><strong>Secretary</strong><br> 
 <a href="mailto:jillianhumphries@cox.net?subject=OAPA%20Information">Jillian Humphries</a>, Kappa Delta</p>
@@ -31,7 +31,8 @@ community based organization. We exist
 <a href="mailto:sdunham25@gmail.com?subject=OAPA%20Information">Sharon Dunham</a>, Gamma Phi Beta</p> 
 
 <p><strong>Advisor</strong><br> 
-<a href="mailto:crichardson323@gmail.com?subject=OAPA%20Information">Colleen Richardson</a>, Alpha Xi Delta</p>
+<a href="mailto:corynnydia@gmail.com?subject=OAPA%20Information">Coryn McDonnell</a>, Delta Gamma</p>
+</p>
 
 </div>
 
