@@ -11,7 +11,7 @@ We invite you to apply for this [scholarship](https://docs.google.com/document/d
 
 ### Awards
 
-OAPA presents awards each year. It is our pleasure to recognize outstanding women who exemplify wide and wise human service and contribute to the development of character, as stated in the National Panhellenic Conference Creed. Selection criteria include service to fraternity, and service to campus or community. Woman of the Year is presented to an alumna member of an NPC organization in the Omaha area.
+It is our pleasure to recognize outstanding women who exemplify wide and wise human service and contribute to the development of character, as stated in the National Panhellenic Conference Creed. Selection criteria include service to fraternity, and service to campus or community. Woman of the Year is presented to an alumna member of an NPC organization in the Omaha area.
 
 See our [past women of the year]({{ site.github.url }}/past-winners "past winners").
 
