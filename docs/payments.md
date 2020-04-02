@@ -3,9 +3,7 @@ title: Online Payments
 feature_image: "/assets/hero-image.jpg"
 ---
 
-Each year, the Omaha Alumnae Panhellenic Association holds a "Gathering of Greeks", the purpose of which is to honor outstanding alumnae and award scholarships to deserving collegians.  These activities are funded by a silent auction and opportunity drawing. This year, the plan was to present two $1,000 scholarships. From twenty-five scholarship applicants, the awards committee found that there were three that stood head and shoulders above the rest. When asked to award scholarships to all three, the board gave their approval. 
-
-And then, Covid-19 raised its ugly head, forcing cancellation. But for the extra scholarship, there would be no need to come to you, our supporters, with an appeal for donations.
+Each year, the Omaha Alumnae Panhellenic Association holds a "Gathering of Greeks", the purpose of which is to honor outstanding alumnae and award scholarships to deserving collegians. This year COVID-19 forced the cancellation of this event. 
 
 Understanding that these are uncertain financial times, we are asking you to consider donating an amount of your choosing to our scholarship fund.
 
