@@ -1,9 +1,8 @@
 ---
-title: 
+title: Donate to OAPA's Scholarship Fund
 feature_image: "/assets/hero-image.jpg"
 ---
 
-## Donate to OAPA's Scholarship Fund
 Each year, the Omaha Alumnae Panhellenic Association holds a "Gathering of Greeks", the purpose of which is to honor outstanding alumnae and award scholarships to deserving collegians. This year COVID-19 forced the cancellation of this event. 
 
 Understanding that these are uncertain financial times, we are asking you to consider donating an amount of your choosing to our scholarship fund.
