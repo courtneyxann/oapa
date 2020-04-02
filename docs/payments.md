@@ -1,5 +1,5 @@
 ---
-title: Online Payments
+title: 
 feature_image: "/assets/hero-image.jpg"
 ---
 
