@@ -3,6 +3,7 @@ title: Online Payments
 feature_image: "/assets/hero-image.jpg"
 ---
 
+## Donate 
 Each year, the Omaha Alumnae Panhellenic Association holds a "Gathering of Greeks", the purpose of which is to honor outstanding alumnae and award scholarships to deserving collegians. This year COVID-19 forced the cancellation of this event. 
 
 Understanding that these are uncertain financial times, we are asking you to consider donating an amount of your choosing to our scholarship fund.
@@ -18,6 +19,9 @@ Thank you for your loyal support. We look forward to Gathering with you, our Gre
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
+
+
+## Dues Payments
 
 We offer the ability to pay for your Gathering of the Greeks ticket as well as for OAPA member organizations to pay for their dues via PayPal. You may submit payment below. 
 
