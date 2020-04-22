@@ -1,13 +1,14 @@
 ---
-title: Donate to OAPA's Scholarship Fund
+title: Online Payments
 feature_image: "/assets/hero-image.jpg"
 ---
 
+## Donate to OAPA's Scholarship Fund
 Each year, the Omaha Alumnae Panhellenic Association holds a "Gathering of Greeks", the purpose of which is to honor outstanding alumnae and award scholarships to deserving collegians. This year COVID-19 forced the cancellation of this event. 
 
 Understanding that these are uncertain financial times, we are asking you to consider donating an amount of your choosing to our scholarship fund.
 
-The name of everyone who donates will be entered into a drawing for the winners' choice of either (1) Dooney and Bourke NCAA Nebraska Crossbody Bag OR (2) Vera Bradley Weekender Travel Bag. The appeal will conclude and the drawing will be held on April 15, 2020. The winner will be announced on the OAPA.INFO website.
+The name of everyone who donated before April 15, 2020 was entered into a drawing for the winners' choice of either (1) Dooney and Bourke NCAA Nebraska Crossbody Bag OR (2) Vera Bradley Weekender Travel Bag. The winner is Suzanne Dewey of Zeta Tau Alpha!
 
 Thank you for your loyal support. We look forward to Gathering with you, our Greek sisters, next year. Stay safe everyone.
 
