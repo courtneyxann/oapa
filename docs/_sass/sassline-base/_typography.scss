@@ -361,3 +361,11 @@ a {
     font-feature-settings: 'onum', 'kern';
   }
 }
+
+.item--nav {
+  a {
+    &hover {
+      font-weight: 700;
+    }
+  }
+}
