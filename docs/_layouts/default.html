@@ -23,7 +23,7 @@
 
 		{% include site-favicons.html %}
 	</head>
-	<body role="main" class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
+	<body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
 		{% include site-icons.svg %}
 
 		{{ content }}
