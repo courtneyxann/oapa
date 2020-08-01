@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<html lang="en-GB">
+<html lang="en-US">
 	<head>
 		<!-- General meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>{{ site.title }}</title>
 
 		{% if page.indexing == false %}
 			<meta name="robots" content="noindex">
@@ -22,7 +23,7 @@
 
 		{% include site-favicons.html %}
 	</head>
-	<body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
+	<body role="main" class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
 		{% include site-icons.svg %}
 
 		{{ content }}
