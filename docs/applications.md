@@ -5,7 +5,7 @@ feature_image: "/assets/hero-image.jpg"
 
 ### Scholarships
 
-OAPA awards $1000 scholarships annually to outstanding women attending a Nebraska college or university. The scholarships help support local NPC members to strive academically and develop wide and wide human service to the Nebraska college community. Scholarships are awarded to members of NPC organizations who are juniors rising to seniors. Two or more scholarships are awarded each year at our Gathering of the Greeks event.
+OAPA awards scholarships annually to outstanding women attending a Nebraska college or university. The scholarships help support local NPC members to strive academically and develop wide and wide human service to the Nebraska college community. Scholarships are awarded to members of NPC organizations who are juniors rising to seniors. Two or more scholarships are awarded each year at our Gathering of the Greeks event.
 
 We invite you to apply for this [scholarship](https://docs.google.com/document/d/1RMkFdp1iuioF65wEmGc1DMHGds8wnQsksiEwVZBSNl8/edit?usp=sharing), and encourage you to spread the word to other sorority women!
 
