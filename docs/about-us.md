@@ -19,24 +19,25 @@ community based organization. We exist
 <div class="officers">
 
 <p><strong>President</strong><br> 
-<a href="mailto:nicole.busboom@gmail.com?subject=OAPA%20Information">Nicole Busboom</a>, Alpha Omicron Pi</p> 
+<a href="mailto:nicole.busboom@gmail.com?subject=OAPA%20Information">Nicole Busboom</a>, Alpha Omicron Pi</p>
 
 <p><strong>President-Elect</strong><br> 
-
+<a href="mailto:jillianhumphries@cox.net?subject=OAPA%20Information">Jillian Humphries</a>, Kappa Delta</p>
 
 <p><strong>Secretary</strong><br> 
-<a href="mailto:jillianhumphries@cox.net?subject=OAPA%20Information">Jillian Humphries</a>, Kappa Delta</p>
+<a href="mailto:mgeraghty@cox.net?subject=OAPA%20Information">Theresa Geraghty</a>, Gamma Phi Beta</p>
 
 <p><strong>Treasurer</strong><br> 
 <a href="mailto:sdunham25@gmail.com?subject=OAPA%20Information">Sharon Dunham</a>, Gamma Phi Beta</p> 
 
 <p><strong>Advisor</strong><br> 
-<a href="mailto:corynnydia@gmail.com?subject=OAPA%20Information">Coryn McDonnell</a>, Delta Gamma</p>
 </p>
 
 </div>
 
 Meetings are held the third Thursdays of September, November, January, March and April. For time and location, please contact your delegate or the President.
+
+For the 2020-2021 year meetings will be held on the third Thursdays of September, January, February, April, June and July.
 
 
 ### Member Organizations
@@ -44,7 +45,7 @@ Meetings are held the third Thursdays of September, November, January, March and
 <div class="members">
 <ul>
 <li>Alpha Chi Omega</li>
-<li><a href="mailto:mandycraig@cox.net?subject=OAPA%20Information">Mandy Craig</a></li>
+<li><a href="mailto:laura@clairrantpartners.com?subject=OAPA%20Information">Laura Schabloske</a></li>
 </ul>
 <ul>
 <li>Alpha Delta Pi</li>
@@ -68,11 +69,11 @@ Meetings are held the third Thursdays of September, November, January, March and
 </ul>
 <ul>
 <li>Alpha Sigma Alpha</li>
-<li><a href="mailto:kate.hilden@gmail.com?subject=OAPA%20Information">Kate Hilden</a></li>
+<li>Not currently active</li>
 </ul>
 <ul>
 <li>Alpha Sigma Tau</li>
-<li><a href="mailto:lgrm@cox.net?subject=OAPA%20Information">Lisa McCoy</a></li>
+<li><a href="mailto:breauxc18@cox.net?subject=OAPA%20Information">Claudette Breaux</a></li>
 </ul>
 <ul>
 <li>Alpha Xi Delta</li>
@@ -80,11 +81,11 @@ Meetings are held the third Thursdays of September, November, January, March and
 </ul>
 <ul>
 <li>Chi Omega</li>
-<li><a href="mailto:momrazz@cox.net?subject=OAPA%20Information">Dorothy Rasgorshek</a></li>
+<li><a href="mailto:gme767@gmail.com?subject=OAPA%20Information">Gabby Estivo</a></li>
 </ul>
 <ul>
 <li>Delta Delta Delta</li>
-<li><a href="mailto:thorson.heidi@gmail.com?subject=OAPA%20Information">Heidi Thorson</a></li>
+<li><a href="mailto:sacaron.17@gmail.com?subject=OAPA%20Information">Steph Debrowski</a></li>
 </ul>
 <ul>
 <li>Delta Gamma</li>
@@ -100,11 +101,11 @@ Meetings are held the third Thursdays of September, November, January, March and
 </ul>
 <ul>
 <li>Gamma Phi Beta</li>
-<li><a href="mailto:mgeraghty@cox.net?subject=OAPA%20Information">Theresa Geraghty</a></li>
+<li><a href="mailto:sdunham25@gmail.com?subject=OAPA%20Information">Sharon Dunham</a></li>
 </ul>
 <ul>
 <li>Kappa Alpha Theta</li>
-<li><a href="mailto:meaganvg@yahoo.com?subject=OAPA%20Information">Meagan Van Gelder</a></li>
+<li><a href="mailto:worralllisa8@gmail.com?subject=OAPA%20Information">Lisa Worrall</a></li>
 </ul>
 <ul>
 <li>Kappa Delta</li>
@@ -112,7 +113,7 @@ Meetings are held the third Thursdays of September, November, January, March and
 </ul>
 <ul>
 <li>Kappa Kappa Gamma</li>
-<li><a href="mailto:jennifer.heyen@yahoo.com?subject=OAPA%20Information">Jennifer Heyen</a></li>
+<li><a href="mailto:ashley.perkins@cox.net?subject=OAPA%20Information">Ashley Perkins</a></li>
 </ul>
 <ul>
 <li>Phi Mu</li>
@@ -124,7 +125,7 @@ Meetings are held the third Thursdays of September, November, January, March and
 </ul>
 <ul>
 <li>Pi Beta Phi</li>
-<li><a href="mailto:a.schorr11@gmail.com?subject=OAPA%20Information">Allison Schorr</a></li>
+<li><a href="mailto:a.schorr11@gmail.com?subject=OAPA%20Information">Allison Schorr Zach</a></li>
 </ul>
 <ul>
 <li>Sigma Delta Tau</li>
@@ -140,11 +141,11 @@ Meetings are held the third Thursdays of September, November, January, March and
 </ul>
 <ul>
 <li>Theta Phi Alpha</li>
-<li><a href="mailto:kathleenglow@gmail.com?subject=OAPA%20Information">Kate Glow</a></li>
+<li>Not currently active</li>
 </ul>
 <ul>
 <li>Zeta Tau Alpha</li>
-<li><a href="mailto:suzanneldewey@msn.com?subject=OAPA%20Information">Suzanne Dewey</a></li>
+<li><a href="mailto:laraimbrock@gmail.com?subject=OAPA%20Information">Lara Imbrock</a></li>
 </ul>
 </div>
 
