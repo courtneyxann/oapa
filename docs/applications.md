@@ -5,9 +5,9 @@ feature_image: "/assets/hero-image.jpg"
 
 ### Scholarships
 
-OAPA awards scholarships annually to outstanding women attending a Nebraska college or university. The scholarships help support local NPC members to strive academically and develop wide and wide human service to the Nebraska college community. Scholarships are awarded to members of NPC organizations who are juniors rising to seniors. Two or more scholarships are awarded each year at our Gathering of the Greeks event.
+OAPA awards scholarships annually to outstanding sorority women attending a Nebraska college or university. The scholarships help them complete their education while living the National Panhellenic Conference core values of friendship, leadership, community service and knowledge. Scholarships are awarded to members of NPC organizations who are juniors rising to seniors or students pursuing their graduate studies.
 
-We invite you to apply for this [scholarship](https://docs.google.com/document/d/1RMkFdp1iuioF65wEmGc1DMHGds8wnQsksiEwVZBSNl8/edit?usp=sharing), and encourage you to spread the word to other sorority women!
+Two or more scholarships are awarded each year at our annual Gathering of Greeks event. We invite you to apply for the [2021 Undergraduate Scholarship](https://drive.google.com/file/d/1Z-chASWhvVA8fpT26dpWIxSH0ripbPrv/view?usp=sharing) or the [OAPA Greek Leadership Scholarship](https://drive.google.com/file/d/1cHgkykH-zd-OtI65qzU-C6QgBbueTRWg/view?usp=sharing) for graduating seniors or graduate students. We would also appreciate letting your sisters know about these scholarship opportunities. 
 
 ### Awards
 
