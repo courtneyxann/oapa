@@ -13,6 +13,6 @@ Two or more scholarships are awarded each year at our annual Gathering of Greeks
 
 It is our pleasure to recognize outstanding women who exemplify wide and wise human service and contribute to the development of character, as stated in the National Panhellenic Conference Creed. Selection criteria include service to fraternity, and service to campus or community. 
 
-We invite you to explore this award and nominate a woman from your organization. We would love for you to apply for [Woman of the Year](https://drive.google.com/file/d/1XO69-sx-0ljdvcNMcNf8JLO94MtQEC8m/view?usp=sharing).
+We invite you to explore this award and nominate a woman from your organization. We would love for you to apply for [Woman of the Year](https://docs.google.com/document/d/1vap6sj88K58pLaeEIgxcP9_IO2P72i5u7odxfUiTXNI/edit?usp=sharing).
 
 See our [past women of the year]({{ site.github.url }}/past-winners "past winners").
