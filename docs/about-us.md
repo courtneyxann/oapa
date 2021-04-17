@@ -52,7 +52,7 @@ Meetings are typically held the third Thursdays of September, November, January,
 </ul>
 <ul>
 <li>Alpha Gamma Delta</li>
-<li><a href="mailto:gjwnah@cox.net?subject=OAPA%20Information">Nancy Harms</a></li>
+<li><a href="mailto:rldietle?subject=OAPA%20Information">Becky Samuelson Dietle</a></li>
 </ul>
 <ul>
 <li>Alpha Omicron Pi</li>
@@ -68,7 +68,7 @@ Meetings are typically held the third Thursdays of September, November, January,
 </ul>
 <ul>
 <li>Alpha Sigma Tau</li>
-<li><a href="mailto:breauxc18@cox.net?subject=OAPA%20Information">Claudette Breaux</a></li>
+<li><a href="mailto:breauxc18@gmail.com?subject=OAPA%20Information">Claudette Breaux</a></li>
 </ul>
 <ul>
 <li>Alpha Xi Delta</li>
@@ -76,11 +76,11 @@ Meetings are typically held the third Thursdays of September, November, January,
 </ul>
 <ul>
 <li>Chi Omega</li>
-<li><a href="mailto:gme767@gmail.com?subject=OAPA%20Information">Gabby Estivo</a></li>
+<li><a href="mailto:gestivo@npdodge.com?subject=OAPA%20Information">Gabby Estivo</a></li>
 </ul>
 <ul>
 <li>Delta Delta Delta</li>
-<li><a href="mailto:sacaron.17@gmail.com?subject=OAPA%20Information">Steph Debrowski</a></li>
+<li><a href="mailto:sacaron.17@gmail.com?subject=OAPA%20Information">Steph Drewnowski</a></li>
 </ul>
 <ul>
 <li>Delta Gamma</li>
@@ -88,7 +88,7 @@ Meetings are typically held the third Thursdays of September, November, January,
 </ul>
 <ul>
 <li>Delta Phi Epsilon</li>
-<li><a href="mailto:brittney.j.merritt@gmail.com?subject=OAPA%20Information">Brittney Merritt</a></li>
+<li>Not currently active</li>
 </ul>
 <ul>
 <li>Delta Zeta</li>
