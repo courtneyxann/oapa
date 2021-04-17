@@ -10,7 +10,7 @@ OAPA’s Gathering of the Greeks is an annual celebration of the Panhellenic spi
 Our [scholarships and awards]({{ site.github.url }}/applications) are presented at the Gathering of the Greeks. Attendees enjoy brunch and a keynote speaker. Our silent auction and raffle benefit the scholarship fund for the following year. Collegiate members mingle with alumnae. Members of all organizations enjoy being Greeks together.
 
 ### Save the date
-Gathering of the Greeks 2020 is postponed due to COVID-19. Stay tuned for more information.
+Gathering of the Greeks 2021 will be July 10th at The Field Club of Omaha.
 
 *Register with PayPal*
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
