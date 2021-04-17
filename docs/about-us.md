@@ -30,12 +30,9 @@ community based organization. We exist
 <p><strong>Treasurer</strong><br> 
 <a href="mailto:sdunham25@gmail.com?subject=OAPA%20Information">Sharon Dunham</a>, Gamma Phi Beta</p> 
 
-<p><strong>Advisor</strong><br> 
-</p>
-
 </div>
 
-Meetings are held the third Thursdays of September, November, January, March and April. For time and location, please contact your delegate or the President.
+Meetings are typically held the third Thursdays of September, November, January, March and April. For time and location, please contact your delegate or the President.
 
 For the 2020-2021 year meetings will be held on the third Thursdays of September, January, February, April, June and July.
 
