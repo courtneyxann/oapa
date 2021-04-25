@@ -26,7 +26,6 @@ Opportunity drawing items will include:
 
 ![red, white, and pink Coach signature handbag.]({{ site.github.url }}/assets/1coach_bag.jpg)
 ![Brown and tan faux Louis Vuitton tote bag.]({{ site.github.url }}/assets/1lv_bag.jpg)
-![Dooney and Bourke crossbody handbag with red and white Nebraska Ns.]({{ site.github.url }}/assets/1nebraska_bag.jpeg)
 ![Blue floral printed Vera Bradley Weekender bag.]({{ site.github.url }}/assets/1vera_bag.jpeg)
 
 *Register with PayPal*
