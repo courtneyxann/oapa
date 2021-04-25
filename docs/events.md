@@ -24,6 +24,13 @@ Opportunity drawing items will include:
 - $100 Dolphin’s Car Wash Gift Card
 - $100 Concept Salon Gift Card
 
+<div style="float: right;">
+<img src="/assets/1coach_bag.jpg" alt="red, white, and pink Coach signature handbag." />
+<img src="/assets/1lv_bag.jpg" alt="Brown and tan faux Louis Vuitton tote bag." />
+<img src="/assets/1nebraska_bag.jpg" alt="Dooney and Bourke crossbody handbag with red and white Nebraska Ns." />
+<img src="/assets/1vera_bag.jpg" alt="Blue floral printed Vera Bradley Weekender bag." />
+</div>
+
 *Register with PayPal*
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
