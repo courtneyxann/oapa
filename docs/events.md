@@ -23,6 +23,7 @@ Gathering of the Greeks 2021 will be July 10th at The Field Club of Omaha.
 Opportunity drawing items will include:
 - Vera Bradley Weekender
 - Skagen Hybrid Smartwatch
+- Apple Watch
 - Coach Signature Handbag
 - Borsheims Pearl Strand
 - Dooney and Bourke Nebraska Crossbody Handbag
@@ -30,7 +31,6 @@ Opportunity drawing items will include:
 - Faux Louis Vuitton Tote Bag
 - $100 Scooters Gift Cards
 - $100 Dolphin’s Car Wash Gift Card
-- $100 Concept Salon Gift Card
 
 <div style="display: flex; max-width: 500px;">
 <img src="{{ site.github.url }}/assets/1coach_bag.jpg" 
