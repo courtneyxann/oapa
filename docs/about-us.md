@@ -40,7 +40,7 @@ Meetings are typically held the third Thursdays of September, November, January,
 <div class="members">
 <ul>
 <li>Alpha Chi Omega</li>
-<li><a href="mailto:laura@clairrantpartners.com?subject=OAPA%20Information">Laura Schabloske</a></li>
+<li>Not Currently Active</li>
 </ul>
 <ul>
 <li>Alpha Delta Pi</li>
@@ -120,7 +120,7 @@ Meetings are typically held the third Thursdays of September, November, January,
 </ul>
 <ul>
 <li>Pi Beta Phi</li>
-<li><a href="mailto:a.schorr11@gmail.com?subject=OAPA%20Information">Allison Schorr Zach</a></li>
+<li><a href="mailto:a.schorr11@gmail.com?subject=OAPA%20Information">Allison Zach</a></li>
 </ul>
 <ul>
 <li>Sigma Delta Tau</li>
@@ -136,7 +136,7 @@ Meetings are typically held the third Thursdays of September, November, January,
 </ul>
 <ul>
 <li>Theta Phi Alpha</li>
-<li>Not currently active</li>
+<li><a href="mailto:kathleenglow@gmail.com?subject=OAPA%20Information">Kate Glow Schram</a></li>
 </ul>
 <ul>
 <li>Zeta Tau Alpha</li>
